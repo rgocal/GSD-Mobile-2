@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>GSD Mobile</title>
+  <link>https://github.com/rgocal/GSD-Mobile-2/MonthlyFeed.rss</link>
+  <description>A RSS dedicated to monthly blog at GSD.</description>
+  <item>
+    <title>An Anniversary Worth Celebrating</title>
+    <dc:creator>Ryan Gocal</dc:creator>
+    <description>This month, I'm preparing a special release for an anniversary worth celebrating. Other things worth talking about is Drywall 2, GSD Mobile and More!</description>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="https://github.com/rgocal/Drywall/blob/Drywall2/archives/Games/DestintyCouple.jpeg?raw=true">
+]]>
+</content:encoded>
+  <link>http://gocalsd.weebly.com/newsletter/moving-forward</link>
+  </item>
+</channel>
+
+</rss>
