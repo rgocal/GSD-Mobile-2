@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>GSD Mobile</title>
+  <link>https://github.com/rgocal/GSD-Mobile-2/MonthlyFeed.rss</link>
+  <description>A RSS dedicated to monthly blog at GSD.</description>
+  <item>
+    <title>GocalSD on Facebook</title>
+    <dc:creator>GocalSD</dc:creator>
+    <description>Like the GocalSD Facebook page to recieve news regarding GSD development through facebook! Join for promotional give aways, exclusive previews and sneak peaks, community discussion and more!</description>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/2000px-Facebook_New_Logo_%282015%29.svg.png">
+]]>
+</content:encoded>
+  <link>https://www.facebook.com/Gocalsd/</link>
+  </item>
+  <item>
+    <title>GSD Apps on Google Plus</title>
+    <dc:creator>GocalSD</dc:creator>
+    <description>Join the GocalSD Google Group to recieve news regarding GSD development! Join for promotional give aways, exclusive previews and sneak peaks, community discussion and more! Google Groups gain exclusive beta access to projects on Google Play.</description>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="http://techrasa.com/wp-content/uploads/2017/06/Infographic-Google-Plus-Usage-Statistics-in-Iran-1.jpg">
+]]>
+</content:encoded>
+  <link>https://plus.google.com/u/0/communities/115542523912843355119</link>
+  </item>
+  <item>
+    <title>Sapphyx Launcher Google+ Group</title>
+    <dc:creator>GocalSD</dc:creator>
+    <description>Join the Google Group to recieve news regarding Sapphyx development! Join for promotional give aways, exclusive previews and sneak peaks, community discussion and more! Google Groups gain exclusive beta access to projects on Google Play.</description>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="http://techrasa.com/wp-content/uploads/2017/06/Infographic-Google-Plus-Usage-Statistics-in-Iran-1.jpg">
+]]>
+</content:encoded>
+  <link>https://plus.google.com/u/0/communities/112426499892330526837</link>
+  </item>
+  <item>
+    <title>Sapphyx Launcher on XDA Forums</title>
+    <dc:creator>GocalSD</dc:creator>
+    <description>Join the XDA forum to recieve news regarding Sapphyx development and discussion!</description>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="https://labs-public-dl.xda-cdn.com/images/d5cca788-2b07-4ce4-9f59-4759267e6efc.png">
+]]>
+</content:encoded>
+  <link>https://forum.xda-developers.com/android/apps-games/sapphyx-google-infused-launcher-project-t3658741</link>
+  </item>
+</channel>
+
+</rss>
