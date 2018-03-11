@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>GSD Mobile</title>
+  <link>https://github.com/rgocal/GSD-Mobile-2/MonthlyFeed.rss</link>
+  <description>A RSS dedicated to monthly blog at GSD.</description>
+  <item>
+    <title>Sapphyx Launcher</title>
+    <dc:creator>Free - Requires License</dc:creator>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/J98KBaEt-tF-3HtWvSkCPwERUfluVWxRIXMa_Z_zte0NnMSNAUr0MBV-_tI2ZD7RuAU=w170">
+]]>
+</content:encoded>
+  <link>https://play.google.com/store/apps/details?id=com.gsd.launcher.sapphyx</link>
+  </item>
+  <item>
+    <title>Drywall 2</title>
+    <dc:creator>Free</dc:creator>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/uJF050akyrObgh7N7XnU2mSlSSoznOROV7dCkb-qwmYcSQpncnQ75kJQ9_MJonwrX7Y=w300">
+]]>
+</content:encoded>
+  <link>https://play.google.com/store/apps/details?id=sapphyx.gsd.com.drywall</link>
+  </item>
+</channel>
+
+</rss>
