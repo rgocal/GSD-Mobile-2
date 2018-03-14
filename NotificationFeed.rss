@@ -6,24 +6,24 @@
   <link>https://github.com/rgocal/GSD-Mobile-2/MonthlyFeed.rss</link>
   <description>A RSS dedicated to monthly blog at GSD.</description>
   <item>
-    <title>Test ONE</title>
-    <description>Some stuff goes here to announce to the community.</description>
-  <link>http://gocalsd.weebly.com/newsletter/moving-forward</link>
+    <title>The New GSD Mobile</title>
+    <description>From a new user interface, to a revamped and dependable feed to mobile news and annoucnemnts; GSD Mobile now provides the community with news that matters to them! Click here to leave some feedback on the newly revamped update!</description>
+  <link>https://play.google.com/store/apps/details?id=mobile.gsd.com.gsd</link>
   </item>
     <item>
-    <title>Test TWO</title>
-    <description>It's Gravy Baby</description>
-  <link>http://gocalsd.weebly.com/newsletter/moving-forward</link>
+    <title>OTA Notifications</title>
+    <description>GSD Mobile will inform community members and followers of important app updates, news, and announcments! Keep tabs on your favorite app projects by GocalSD.</description>
+  <link></link>
   </item>
     <item>
-    <title>Test THREE</title>
-    <description>Sapphxy Launcher 2 will be awesome. These are clickable with links! </description>
-  <link>http://gocalsd.weebly.com/newsletter/moving-forward</link>
+    <title>Sapphyx Launcher 2.0 Announced</title>
+    <description>The beans have been spilled, Sapphyx 2.0 is coming but very little about its ETA is known at this time. An Android Oreo enhancment will be coming before it's second anniversary release!</description>
+  <link></link>
   </item>
     <item>
-    <title>Test FOUR</title>
-    <description>This is a very very long announcment and if it even means anything at all, that will be the bonus. Let's see if the cardview wraps around the message correctly and allows for something as pointless as my mumbling and bed time snoring.</description>
-  <link>http://gocalsd.weebly.com/newsletter/moving-forward</link>
+    <title>Sapphire Launcher 2018 Maintenance Update</title>
+    <description>An update has been scheduled to release for Sapphire Launcher for its entrance to 2018. This update will fix a number of current issues for its current users and will receive deprecated features from Sapphyx Launcher that will be replaced in its 2.0 update coming this year. Altho Sapphyx Launcher has taken the stage, Sapphire Launcher is still important to GocalSD as it retains features Sapphyx will not receive.</description>
+  <link></link>
   </item>
 </channel>
 
