@@ -21,8 +21,13 @@
   <link></link>
   </item>
     <item>
-    <title>Sapphire Launcher 2018 Maintenance Update</title>
-    <description>An update has been scheduled to release for Sapphire Launcher for its entrance to 2018. This update will fix a number of current issues for its current users and will receive deprecated features from Sapphyx Launcher that will be replaced in its 2.0 update coming this year. Altho Sapphyx Launcher has taken the stage, Sapphire Launcher is still important to GocalSD as it retains features Sapphyx will not receive.</description>
+    <title>Sapphire Launcher 2018</title>
+    <description>An update has been released for Sapphire Launcher. Some features have been removed due to stability issues on Android 8.0 The Launcher is now LTS based. A future update is scheduled to improve performance and available features. </description>
+  <link></link>
+  </item>
+    <item>
+    <title>Sapphyx Launcher 2.0 Private Testing</title>
+    <description>A survey is available on the Sapphyx Launcher Google Plus Group. Complete the survey, and enter in a chance to be selected as an Alpha tester before release. </description>
   <link></link>
   </item>
 </channel>
