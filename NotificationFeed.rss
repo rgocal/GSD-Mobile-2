@@ -6,59 +6,48 @@
   <link>https://github.com/rgocal/GSD-Mobile-2/MonthlyFeed.rss</link>
   <description>A RSS dedicated to monthly blog at GSD.</description>
   <item>
-    <title>The New GSD Mobile</title>
-    <description>From a new user interface, to a revamped and dependable feed to mobile news and annoucnemnts; GSD Mobile now provides the community with news that matters to them! Click here to leave some feedback on the newly revamped update!</description>
+    <title>GSD Mobile Update</title>
+    <description>A small update has been published for GSD Mobile. This update targets the notification feed and project update feed user interface and some background data handling. Accept the update to receive the changes.</description>
     <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/Mo3Mc5Z7cDK8frcmv_jB-D4Q5_fBLoHCucSaPxMIvfxD7dJqgxaI7SXP8VcK1RfDlQ=w300-rw">
 ]]>
 </content:encoded>
   <link>https://play.google.com/store/apps/details?id=mobile.gsd.com.gsd</link>
-    <pubDate>10/12/2018</pubDate>
+    <pubDate>3/24/2018</pubDate>
   </item>
     <item>
-    <title>OTA Notifications</title>
-    <description>GSD Mobile will inform community members and followers of important app updates, news, and announcments! Keep tabs on your favorite app projects by GocalSD.</description>
+    <title>Firebase Notifications</title>
+    <description>Keep tabs on the latest news and announcements by Gocal Software Development.</description>
       <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/Mo3Mc5Z7cDK8frcmv_jB-D4Q5_fBLoHCucSaPxMIvfxD7dJqgxaI7SXP8VcK1RfDlQ=w300-rw">
 ]]>
 </content:encoded>
   <link></link>
-          <pubDate>10/12/2018</pubDate>
+          <pubDate>3/24/2018</pubDate>
   </item>
     <item>
-    <title>Sapphyx Launcher 2.0 Announced</title>
-    <description>The beans have been spilled, Sapphyx 2.0 is coming but very little about its ETA is known at this time. An Android Oreo enhancment will be coming before it's second anniversary release!</description>
+    <title>Sapphyx Launcher 2.0 Development</title>
+    <description>Work has begun on the anticipated project 2.0 update. Download Sapphyx Launcher and leave some feedback to forge the latest update.</description>
       <content:encoded>
 <![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/Mo3Mc5Z7cDK8frcmv_jB-D4Q5_fBLoHCucSaPxMIvfxD7dJqgxaI7SXP8VcK1RfDlQ=w300-rw">
+<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/J98KBaEt-tF-3HtWvSkCPwERUfluVWxRIXMa_Z_zte0NnMSNAUr0MBV-_tI2ZD7RuAU=w170">
 ]]>
 </content:encoded>
-  <link></link>
-          <pubDate>10/12/2018</pubDate>
-  </item>
-    <item>
-    <title>Sapphire Launcher 2018</title>
-    <description>An update has been released for Sapphire Launcher. Some features have been removed due to stability issues on Android 8.0 The Launcher is now LTS based. A future update is scheduled to improve performance and available features. </description>
-      <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/Mo3Mc5Z7cDK8frcmv_jB-D4Q5_fBLoHCucSaPxMIvfxD7dJqgxaI7SXP8VcK1RfDlQ=w300-rw">
-]]>
-</content:encoded>
-  <link></link>
+  <link>https://play.google.com/store/apps/details?id=com.gsd.launcher.sapphyx</link>
           <pubDate>10/12/2018</pubDate>
   </item>
     <item>
     <title>Sapphyx Launcher 2.0 Private Testing</title>
-    <description>A survey is available on the Sapphyx Launcher Google Plus Group. Complete the survey, and enter in a chance to be selected as an Alpha tester before release. </description>
+    <description>A survey is available on the Sapphyx Launcher Google Plus Group. Complete the survey, and enter in a chance to be selected as an Alpha tester before release. Click here for more information.</description>
       <content:encoded>
 <![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/Mo3Mc5Z7cDK8frcmv_jB-D4Q5_fBLoHCucSaPxMIvfxD7dJqgxaI7SXP8VcK1RfDlQ=w300-rw">
+<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/J98KBaEt-tF-3HtWvSkCPwERUfluVWxRIXMa_Z_zte0NnMSNAUr0MBV-_tI2ZD7RuAU=w170">
 ]]>
 </content:encoded>
-  <link></link>
-          <pubDate>10/12/2018</pubDate>
+  <link>https://plus.google.com/communities/112426499892330526837/stream/c9f8cacf-ffd6-440f-989e-e9c248a4d2f3</link>
+          <pubDate>3/24/2018</pubDate>
   </item>
 </channel>
 
