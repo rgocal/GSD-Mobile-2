@@ -5,6 +5,18 @@
   <title>GSD Mobile</title>
   <link>https://github.com/rgocal/GSD-Mobile-2/MonthlyFeed.rss</link>
   <description>A RSS dedicated to monthly blog at GSD.</description>
+
+<item>
+    <title>Sapphyx Phase 2 - 6/3/2018</title>
+    <dc:creator>Ryan Gocal</dc:creator>
+    <description>The Private Alpha for Sapphyx Launcher 2.0 has begun! We will talk about the new changes, first impressions, upcoming changes. It's also my birthday tomorrow! Purchase a pledge in the GSD App to make my day even more special!</description>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/-LTSmgGjFtXE/AAAAAAAAAAI/AAAAAAAAABc/ioWlqmf0h_E/w360-h203-p-rw/photo.jpg">
+]]>
+</content:encoded> <link>https://gocalsd.weebly.com/newsletter/sapphyx-phase-2</link>
+  </item>
+
 <item>
     <title>Nx On The List - 4/25/2018</title>
     <dc:creator>Ryan Gocal</dc:creator>
