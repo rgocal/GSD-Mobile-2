@@ -6,47 +6,59 @@
   <link>https://github.com/rgocal/GSD-Mobile-2/MonthlyFeed.rss</link>
   <description>A RSS dedicated to monthly blog at GSD.</description>
   <item>
-    <title>March Blog Live</title>
-    <description>Read about the latest tidbit about Sapphyx Launcher development and how it will affect its users.</description>
+    
+    <title>June Blog Live</title>
+    <description>This month, its about phase 2 development of Sapphyx Launcher and were we currently stand with the project.</description>
     <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/Mo3Mc5Z7cDK8frcmv_jB-D4Q5_fBLoHCucSaPxMIvfxD7dJqgxaI7SXP8VcK1RfDlQ=w300-rw">
 ]]>
 </content:encoded>
-  <link>https://play.google.com/store/apps/details?id=mobile.gsd.com.gsd</link>
-    <pubDate>4/25/2018</pubDate>
+  <link>https://gocalsd.weebly.com/newsletter/sapphyx-phase-2</link>
+    <pubDate>6/3/2018</pubDate>
   </item>
     <item>
-    <title>Firebase Notifications</title>
-    <description>Keep tabs on the latest news and announcements by Gocal Software Development.</description>
+    <title>Deprecation Notice!</title>
+    <description>Sapphire Launcher has be suspended off of the Google Play store due to a security bug by Google Services. An end of the summer patch is expected to drop to fix it up and general maintenance.</description>
       <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/Mo3Mc5Z7cDK8frcmv_jB-D4Q5_fBLoHCucSaPxMIvfxD7dJqgxaI7SXP8VcK1RfDlQ=w300-rw">
 ]]>
 </content:encoded>
   <link></link>
-          <pubDate>3/24/2018</pubDate>
+          <pubDate>6/9/2018</pubDate>
   </item>
     <item>
-    <title>Sapphyx Launcher 2.0 Development</title>
-    <description>Work has begun on the anticipated 2.0 update. Download Sapphyx Launcher and get yourself in on my latest project.</description>
+    <title>Sapphyx Launcher Suspension</title>
+    <description>Sapphyx Launcher V1 has been suspended off of Google Play due to the numerous amounts of bugs and Google Play Services security issues floating around. Users can still view the application and recieve the 2.0 update when it becomes available. New customers cannot download or find it on the play store.</description>
       <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/J98KBaEt-tF-3HtWvSkCPwERUfluVWxRIXMa_Z_zte0NnMSNAUr0MBV-_tI2ZD7RuAU=w170">
 ]]>
 </content:encoded>
-  <link>https://play.google.com/store/apps/details?id=com.gsd.launcher.sapphyx</link>
-          <pubDate>3/24/2018</pubDate>
+  <link></link>
+          <pubDate>6/9/2018</pubDate>
   </item>
     <item>
-    <title>Sapphyx Launcher 2.0 Private Testing</title>
-    <description>A survey is available on the Sapphyx Launcher Google Plus Group. Complete the survey, and enter in a chance to be selected as an Alpha tester before release. Last chance as a GocalSD subscriber. Google Email will be required to be entered correctly. </description>
+    <title>Sapphyx Launcher 2.0 Private Alpha</title>
+    <description>The private Alpha has begun! Email me for any interest or information regarding testing! A Telegram Gooup and Hangouts Group has been created for discussion. The Telegram group will remain open after release for discussions, help, and request.</description>
       <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/J98KBaEt-tF-3HtWvSkCPwERUfluVWxRIXMa_Z_zte0NnMSNAUr0MBV-_tI2ZD7RuAU=w170">
 ]]>
 </content:encoded>
-  <link>https://plus.google.com/communities/112426499892330526837/stream/c9f8cacf-ffd6-440f-989e-e9c248a4d2f3</link>
+  <link></link>
+          <pubDate>3/24/2018</pubDate>
+  </item>
+  <item>
+    <title>Sapphyx Service Pack 2</title>
+    <description>An update is scheduled to release for Sapphyx Service Pack very soon. It will not affect users on Sapphyx V1 as the new features, settings, and patches will not affect you. The update will be focused for V2 Alpha testers.</description>
+      <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/J98KBaEt-tF-3HtWvSkCPwERUfluVWxRIXMa_Z_zte0NnMSNAUr0MBV-_tI2ZD7RuAU=w170">
+]]>
+</content:encoded>
+  <link></link>
           <pubDate>3/24/2018</pubDate>
   </item>
 </channel>
