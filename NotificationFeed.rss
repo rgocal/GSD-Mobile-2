@@ -6,6 +6,18 @@
   <link>https://github.com/rgocal/GSD-Mobile-2/MonthlyFeed.rss</link>
   <description>A RSS dedicated to monthly blog at GSD.</description>
 
+<item>
+    <title>Sapphyx 2 Public Beta</title>
+    <description>The Sapphyx Launcher 2.0 public beta will be going live this weekend. In preparations, I will be keeping low on anything I've implemented in my latest private builds so it's something you can experience on your own. Sapphyx will have a hangouts and telegram group you may access at anytime for questions, feedback, request and general comments or even a good ol handshake. Users who currently have Sapphyx Launcher V1 installed from Google Play will receive this update as a regular update as the same goes for whom who has downloaded it off XDA Labs. Sapphyx Launcher V1 will remain on xda labs for archive purposes. A Vidoc will release this week talking about the latest changes, development and future of Sapphyx 2. Only you can make this a successful project, im just the guy behind the screen. Il see you at phase 2.</description>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/Mo3Mc5Z7cDK8frcmv_jB-D4Q5_fBLoHCucSaPxMIvfxD7dJqgxaI7SXP8VcK1RfDlQ=w300-rw">
+]]>
+</content:encoded>
+  <link></link>
+    <pubDate>6/24/2018</pubDate>
+  </item>
+
  <item>
     <title>Phase 2 ViDoc</title>
     <description>I will be presenting the community a Vidoc very soon displaying the current progress of Sapphyx Launcher 2.0 and its current features and talking about the public Beta. Stay tuned!.</description>
