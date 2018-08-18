@@ -5,8 +5,9 @@
   <title>GSD Mobile</title>
   <link>https://github.com/rgocal/GSD-Mobile-2/MonthlyFeed.rss</link>
   <description>A RSS dedicated to monthly blog at GSD.</description>
+  
   <item>
-    <title>Sapphyx Launcher</title>
+    <title>Sapphyx Launcher 2</title>
     <dc:creator>Free - Requires License</dc:creator>
     <content:encoded>
 <![CDATA[
@@ -15,8 +16,9 @@
 </content:encoded>
   <link>https://play.google.com/store/apps/details?id=com.gsd.launcher.sapphyx</link>
   </item>
+  
   <item>
-    <title>Drywall 2</title>
+    <title>Drywall</title>
     <dc:creator>Free</dc:creator>
     <content:encoded>
 <![CDATA[
@@ -25,6 +27,7 @@
 </content:encoded>
   <link>https://play.google.com/store/apps/details?id=sapphyx.gsd.com.drywall</link>
   </item>
+  
   <item>
     <title>No'me</title>
     <dc:creator>Free</dc:creator>
@@ -35,6 +38,7 @@
 </content:encoded>
   <link>https://play.google.com/store/apps/details?id=com.flea.gsd.flea</link>
   </item>
+  
   <item>
     <title>GSD Mobile</title>
     <dc:creator>Free</dc:creator>
@@ -45,16 +49,7 @@
 </content:encoded>
   <link>https://play.google.com/store/apps/details?id=mobile.gsd.com.gsd</link>
   </item>
-  <item>
-    <title>Sense Me</title>
-    <dc:creator>Free</dc:creator>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/lNmqeAc0kYJMqfmof_Dl3TwVA2Ne74E-17wSexrzVFeESOXwN_kuV3kZcLDCT1DRVw=w300-rw">
-]]>
-</content:encoded>
-  <link>https://play.google.com/store/apps/details?id=com.NxIndustries.Flip</link>
-  </item>
+  
 </channel>
 
 </rss>
