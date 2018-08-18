@@ -8,8 +8,6 @@
   
   <item>
     <title>GocalSD on Facebook</title>
-    <dc:creator>GocalSD</dc:creator>
-    <description>Like the GocalSD Facebook page to recieve news regarding GSD development through facebook! Join for promotional give aways, exclusive previews and sneak peaks, community discussion and more!</description>
     <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/2000px-Facebook_New_Logo_%282015%29.svg.png">
@@ -18,20 +16,7 @@
   <link>https://www.facebook.com/Gocalsd/</link>
   </item>
   <item>
-    <title>GSD Apps on Google Plus</title>
-    <dc:creator>GocalSD</dc:creator>
-    <description>Join the GocalSD Google Group to recieve news regarding GSD development! Join for promotional give aways, exclusive previews and sneak peaks, community discussion and more! Google Groups gain exclusive beta access to projects on Google Play.</description>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="http://techrasa.com/wp-content/uploads/2017/06/Infographic-Google-Plus-Usage-Statistics-in-Iran-1.jpg">
-]]>
-</content:encoded>
-  <link>https://plus.google.com/u/0/communities/115542523912843355119</link>
-  </item>
-  <item>
-    <title>Sapphyx Launcher Google+ Group</title>
-    <dc:creator>GocalSD</dc:creator>
-    <description>Join the Google Group to recieve news regarding Sapphyx development! Join for promotional give aways, exclusive previews and sneak peaks, community discussion and more! Google Groups gain exclusive beta access to projects on Google Play.</description>
+    <title>Sapphyx Google+ Group</title>
     <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="http://techrasa.com/wp-content/uploads/2017/06/Infographic-Google-Plus-Usage-Statistics-in-Iran-1.jpg">
@@ -41,9 +26,7 @@
   </item>
   
   <item>
-    <title>Sapphyx V2 Alpha Hangouts</title>
-    <dc:creator>Ryan Gocal</dc:creator>
-    <description>Join the Hangouts Group discussion and get involved with the Sapphyx Launcher V2 Alpha Testing.</description>
+    <title>Sapphyx Hangouts</title>
     <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://d1alt1wkdk73qo.cloudfront.net/images/guide/aff66786ede14092bed6997a5beaee1e/640x478_ac.jpg">
@@ -53,9 +36,7 @@
   </item>
   
   <item>
-    <title>Sapphyx V2 Alpha Telegram</title>
-    <dc:creator>Ryan Gocal</dc:creator>
-    <description>Join the Telegram Group discussion and get involved with the Sapphyx Launcher V2 Alpha Testing.</description>
+    <title>Sapphyx Telegram</title>
     <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/pgiel6OzR01do2sPxONlteJ5_GAwD6W-JpiF98hdns3XinShKZkziUd1B8sG-8qa">
