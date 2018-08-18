@@ -5,6 +5,7 @@
   <title>GSD Mobile</title>
   <link>https://github.com/rgocal/GSD-Mobile-2/MonthlyFeed.rss</link>
   <description>A RSS dedicated to monthly blog at GSD.</description>
+  
   <item>
     <title>Sapphire Launcher</title>
     <dc:creator>Free</dc:creator>
@@ -15,8 +16,9 @@
 </content:encoded>
   <link>https://play.google.com/store/apps/details?id=com.NxIndustries.Sapphire</link>
   </item>
+  
   <item>
-    <title>Sapphyx Launcher</title>
+    <title>Sapphyx Launcher 2</title>
     <dc:creator>Free - Requires License</dc:creator>
     <content:encoded>
 <![CDATA[
@@ -25,6 +27,7 @@
 </content:encoded>
   <link>https://play.google.com/store/apps/details?id=com.gsd.launcher.sapphyx</link>
   </item>
+  
   <item>
     <title>GSD Mobile</title>
     <dc:creator>Free</dc:creator>
@@ -35,8 +38,9 @@
 </content:encoded>
   <link>https://play.google.com/store/apps/details?id=mobile.gsd.com.gsd</link>
   </item>
+  
   <item>
-    <title>Drywall 2</title>
+    <title>Drywall</title>
     <dc:creator>Free</dc:creator>
     <content:encoded>
 <![CDATA[
@@ -45,16 +49,7 @@
 </content:encoded>
   <link>https://play.google.com/store/apps/details?id=sapphyx.gsd.com.drywall</link>
   </item>
-  <item>
-    <title>ElDewrito Companion</title>
-    <dc:creator>Free</dc:creator>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/1bhRl4aUhbrkpkduCmSdRshdEr3DD7Y8xx79GMEIC5rS-qoZ7fMdkUQ26e3TZU29c69P=w170">
-]]>
-</content:encoded>
-  <link>https://play.google.com/store/apps/details?id=eldewrito.anvil.gsd.com.anvilcompanion</link>
-  </item>
+  
   <item>
     <title>No'me</title>
     <dc:creator>Free</dc:creator>
@@ -65,8 +60,9 @@
 </content:encoded>
   <link>https://play.google.com/store/apps/details?id=com.flea.gsd.flea</link>
   </item>
+  
   <item>
-    <title>Sapphyx SP1</title>
+    <title>Sapphyx SP2</title>
     <dc:creator>Free</dc:creator>
     <content:encoded>
 <![CDATA[
@@ -75,26 +71,7 @@
 </content:encoded>
   <link>https://play.google.com/store/apps/details?id=com.gsd.sapphyx.services</link>
   </item>
-  <item>
-    <title>Nx Power Legacy</title>
-    <dc:creator>Free</dc:creator>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://lh5.ggpht.com/M77oYsdc5nkjmiwfJPgLBz9XECVS63kgbqvOxwJ9kW-x_Y-w0KiXOz-w3_A78Jrbi4vL=w300-rw">
-]]>
-</content:encoded>
-  <link>https://play.google.com/store/apps/details?id=com.biotic.nxpower</link>
-  </item>
-  <item>
-    <title>Camera On-Tap</title>
-    <dc:creator>Free</dc:creator>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/ZHGeZvcnPY65BKOPSjdJeglkW1-5IeSUY8abGLvjvCnNhilpLnIwIKfU2WxF5KJ1wCvx=w300-rw">
-]]>
-</content:encoded>
-  <link>https://play.google.com/store/apps/details?id=com.Renovate.CameraAssist</link>
-  </item>
+  
   <item>
     <title>Sense Me</title>
     <dc:creator>Free</dc:creator>
@@ -105,16 +82,8 @@
 </content:encoded>
   <link>https://play.google.com/store/apps/details?id=com.NxIndustries.Flip</link>
   </item>
-  <item>
-    <title>Nx Power Lollipop</title>
-    <dc:creator>Free</dc:creator>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://lh4.ggpht.com/bOtSxbUXDg6x4d6OLBXGKMHmeU6TZGy-F9FI-GMZ4hMJW6nwULhxN6uDOKAVW3yUuJ0=w300-rw">
-]]>
-</content:encoded>
-  <link>https://play.google.com/store/apps/details?id=com.nxindustries.nxpowerl.nxpowerl</link>
-  </item>
+  
+  
 </channel>
 
 </rss>
