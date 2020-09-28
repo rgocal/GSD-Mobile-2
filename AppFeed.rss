@@ -7,25 +7,25 @@
   <description>A RSS dedicated to monthly blog at GSD.</description>
   
   <item>
-    <title>Sapphire Launcher</title>
-    <dc:creator>Free</dc:creator>
+    <title>GCA Launcher</title>
+    <dc:creator>Free - Donations - ProFeatures</dc:creator>
     <content:encoded>
 <![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/iMZAMDU10yFp0htL-w_A5Qozb2EXEBSCchAL-XfxCEyb5YbZmxgYD7mLM2DpXrY5eV40=w300">
+<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/hlzv8reGfLj7DNEcnt2jYGT-wBVGIZ38p0SEnVdwYAUSZv41ZIjdiNaosUf54MS3WTHW=s180-rw">
 ]]>
 </content:encoded>
-  <link>https://play.google.com/store/apps/details?id=com.NxIndustries.Sapphire</link>
+  <link>https://play.google.com/store/apps/details?id=com.gocalsd.symphlyx</link>
   </item>
   
   <item>
-    <title>Sapphyx Launcher 2</title>
-    <dc:creator>Free - Requires License</dc:creator>
+    <title>Drywall</title>
+    <dc:creator>Free - Donations</dc:creator>
     <content:encoded>
 <![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/J98KBaEt-tF-3HtWvSkCPwERUfluVWxRIXMa_Z_zte0NnMSNAUr0MBV-_tI2ZD7RuAU=w170">
+<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/gvvdcP7-bZBlzcteh0zioIzA2XsvX_tur3dnJb-WB4Gjr4agfDsFtiro6xjAbMFvDw=s180-rw">
 ]]>
 </content:encoded>
-  <link>https://play.google.com/store/apps/details?id=com.gsd.launcher.sapphyx</link>
+  <link>https://play.google.com/store/apps/details?id=com.gsd.drywall.mcd</link>
   </item>
   
   <item>
@@ -40,49 +40,26 @@
   </item>
   
   <item>
-    <title>Drywall</title>
-    <dc:creator>Free</dc:creator>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/uJF050akyrObgh7N7XnU2mSlSSoznOROV7dCkb-qwmYcSQpncnQ75kJQ9_MJonwrX7Y=w300">
-]]>
-</content:encoded>
-  <link>https://play.google.com/store/apps/details?id=sapphyx.gsd.com.drywall</link>
-  </item>
-  
-  <item>
     <title>No'me</title>
-    <dc:creator>Free</dc:creator>
+    <dc:creator>Free - Donations</dc:creator>
     <content:encoded>
 <![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/9bEaW7TVaq_4qSd9P4SdMrvPerFk00vlD7iTLcNzIxM2Dhg0p0zqRxRK_KYRF5ySvA=w300-rw">
+<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/WKJigtRZTdS93EXfK1hgmwEvHggZcQL_kwKDspjPWHHmvkUm32xjAcA5Fwd7uwZ7Yg=s180-rw">
 ]]>
 </content:encoded>
   <link>https://play.google.com/store/apps/details?id=com.flea.gsd.flea</link>
   </item>
   
   <item>
-    <title>Sapphyx SP2</title>
+    <title>Launchers QT</title>
     <dc:creator>Free</dc:creator>
     <content:encoded>
 <![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/j4i3A8swAgymi13PJx-Of1A2ZCxJ0_SGlQ27RWv4IYf7HPzqJy-h2k3JeyBC6A0Juro=w300-rw">
+<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/sqWJazJTwHg_KzIDvRSN2aphqcSw1k78SB5ed64pgvFKdXoqfJoQJ-iTmfi8T7XrSLDp=s180-rw">
 ]]>
 </content:encoded>
-  <link>https://play.google.com/store/apps/details?id=com.gsd.sapphyx.services</link>
+  <link>https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers</link>
   </item>
-  
-  <item>
-    <title>Sense Me</title>
-    <dc:creator>Free</dc:creator>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/lNmqeAc0kYJMqfmof_Dl3TwVA2Ne74E-17wSexrzVFeESOXwN_kuV3kZcLDCT1DRVw=w300-rw">
-]]>
-</content:encoded>
-  <link>https://play.google.com/store/apps/details?id=com.NxIndustries.Flip</link>
-  </item>
-  
   
 </channel>
 
