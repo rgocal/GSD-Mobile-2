@@ -10,14 +10,14 @@
     <title>Switchbar</title>
     <dc:creator>Ryan Gocal</dc:creator>
      <description>Google's Switchbar view re-invented in material design</description>
-    <link>https://play.google.com/store/apps/details?id=com.NxIndustries.Sapphire</link>
+    <link>https://github.com/rgocal/Switchbar</link>
   </item>
   
   <item>
     <title>Material Popup Menu</title>
     <dc:creator>Ryan Gocal</dc:creator>
      <description>A material design popup action menu designed for list and recyclerview</description>
-    <link>https://play.google.com/store/apps/details?id=com.NxIndustries.Sapphire</link>
+    <link>https://github.com/rgocal/Material_PopUp_Menu</link>
   </item>
   
 </channel>
